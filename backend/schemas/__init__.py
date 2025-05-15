@@ -1,0 +1,2 @@
+class LivroCreate:
+    pass

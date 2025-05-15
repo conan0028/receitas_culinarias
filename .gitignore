@@ -1,0 +1,48 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos de configuração pessoais e sensíveis
+*.env
+
+# Bytecode do Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de dados local, arquivos de cache ou logs
+*.sqlite3
+*.db
+*.log
+*.pid
+*.out
+*.pkl
+
+# IDEs
+.idea/
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cobertura de testes e pytest
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+pytest_cache/
+
+# Build de pacotes
+*.egg-info/
+dist/
+build/
+
+# Arquivos temporários
+*.bak
+*.swp
+*.tmp

@@ -1,0 +1,6 @@
+# to create and move multiples files using shell
+ for dir in models routes crud; do
+  cp *.py "$dir/"
+done
+
+DATABASE_URL = "postgresql://collage:collage1@localhost:5432/receitas_culinarias"
