@@ -80,7 +80,12 @@ Este comando irá:
 - Abrir a interface gráfica Tkinter para interação com as funcionalidades do sistema (CRUD completo)
 ---
 ## 🖼️ Prévia do Funcionamento
-Abaixo, uma captura de tela da aplicação em execução:
+Abaixo, algumas capturas de tela da aplicação em execução:
+
+![Tela 1](screenshots/picture_1.png)
+![Tela 2](screenshots/picture_2.png)
+![Tela 3](screenshots/picture_3.png)
+
 ---
 ## ✅ Funcionalidades
 - Cadastro, visualização, atualização e exclusão de:
